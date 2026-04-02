@@ -9,3 +9,6 @@ A simple AI-based system that recommends repurchase items based on user purchase
 
 ## Run
 python main.py
+
+## Data
+- Sample purchase data stored in `/data/sample_purchase_data.csv`
